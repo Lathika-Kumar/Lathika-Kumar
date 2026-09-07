@@ -13,7 +13,7 @@ I'm a passionate developer focused on building practical projects, strengthening
 - 🧩 Practicing **Data Structures & Algorithms**
 - 🟨 Working with **JavaScript**
 - 🌐 Working with **HTML & CSS**
-- 📘 Trying to work with **TypeScript**
+- 📘 Currently learning **TypeScript**
 - ⚛️ Exploring **React.js**
 - 🗄️ Working with **SQL & Oracle Database**
 - 🔧 Using **Git & GitHub** for version control and collaboration
@@ -96,12 +96,14 @@ A personal portfolio website showcasing my skills, projects, experience, and dev
 
 ---
 
-## 🌐 My Portfolio
+## 📊 GitHub Stats
 
-<p align="left">
-  <a href="https://personal-portfolio-website-rho-khaki.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-4285F4?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit My Portfolio" />
-  </a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lathika-Kumar&show_icons=true&include_all_commits=true&count_private=true" alt="Lathika Kumar's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lathika-Kumar&layout=compact" alt="Lathika Kumar's Top Languages" />
 </p>
 
 ---
@@ -114,6 +116,24 @@ A personal portfolio website showcasing my skills, projects, experience, and dev
     <img src="https://img.shields.io/badge/LeetCode-Lathika__Kumar-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
 
+</p>
+
+### 🏆 LeetCode Stats
+
+<p align="center">
+  <a href="https://leetcode.com/u/Lathika_Kumar/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/Lathika_Kumar?theme=light&font=baloo&ext=heatmap" alt="Lathika Kumar's LeetCode Stats" />
+  </a>
+</p>
+
+---
+
+## 🌐 My Portfolio
+
+<p align="left">
+  <a href="https://personal-portfolio-website-rho-khaki.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-4285F4?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit My Portfolio" />
+  </a>
 </p>
 
 ---
