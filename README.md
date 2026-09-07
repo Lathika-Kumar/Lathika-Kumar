@@ -1,6 +1,6 @@
 # Hi 👋, I'm Lathika Kumar
 
-### 💻 Aspiring Software Developer | Java | DSA | Full-Stack Development
+### 💻 Aspiring Software Developer | Java | Python | DSA
 
 I'm a passionate developer focused on building practical projects, strengthening my problem-solving skills, and continuously learning modern technologies.
 
@@ -8,13 +8,13 @@ I'm a passionate developer focused on building practical projects, strengthening
 
 ## 🚀 About Me
 
-- 🎓 Computer Science / Software Engineering Student
-- ☕ Building strong skills in **Java** and **Data Structures & Algorithms**
-- 🐍 Working with **Python**
-- 🟨 Developing with **JavaScript**
-- 🌐 Exploring **Web Development**
-- ⚛️ Building interfaces with **React.js**
-- 📘 Working with **TypeScript**
+- 🎓 Artificial Intelligence and Data Science Student
+- ☕ Working with **Java and Python**
+- 🧩 Practicing **Data Structures & Algorithms**
+- 🟨 Working with **JavaScript**
+- 🌐 Working with **HTML & CSS**
+- 📘 Trying to work with **TypeScript**
+- ⚛️ Exploring **React.js**
 - 🗄️ Working with **SQL & Oracle Database**
 - 🔧 Using **Git & GitHub** for version control and collaboration
 - 🚀 Interested in building practical, real-world software solutions
@@ -54,7 +54,7 @@ I'm a passionate developer focused on building practical projects, strengthening
 
 A real-world project focused on helping users discover and access relevant government schemes.
 
-**Focus:** Real-world software solution • Data • Database • Web Development
+**Focus:** Real-world Software Solution • Data • Database • Web Development
 
 ---
 
@@ -85,19 +85,14 @@ A personal portfolio website showcasing my skills, projects, experience, and dev
 ## 📚 Currently Learning
 
 - 🧩 Data Structures & Algorithms
-- ☕ Advanced Java
-- 🏗️ Object-Oriented Programming
-- 🗄️ SQL & Oracle Database
-- ⚛️ React.js
+- ☕ Java
+- 🐍 Python
+- 🟨 JavaScript
 - 📘 TypeScript
-- 🌐 Full-Stack Web Development
+- ⚛️ React.js
+- 🗄️ SQL & Oracle Database
 - 🌐 Computer Networking
-
----
-
-## 🎯 My Goals
-
-> Build strong fundamentals → Solve real problems → Build meaningful projects → Become a better software developer.
+- 🏗️ Object-Oriented Programming
 
 ---
 
@@ -107,6 +102,18 @@ A personal portfolio website showcasing my skills, projects, experience, and dev
   <a href="https://personal-portfolio-website-rho-khaki.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-4285F4?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit My Portfolio" />
   </a>
+</p>
+
+---
+
+## 🧩 Coding Profiles
+
+<p align="left">
+
+  <a href="https://leetcode.com/u/Lathika_Kumar/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Lathika__Kumar-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+
 </p>
 
 ---
@@ -128,6 +135,12 @@ A personal portfolio website showcasing my skills, projects, experience, and dev
   </a>
 
 </p>
+
+---
+
+## 🎯 My Goals
+
+> Build strong fundamentals → Solve real problems → Build meaningful projects → Become a better software developer.
 
 ---
 
