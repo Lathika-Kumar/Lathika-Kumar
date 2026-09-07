@@ -8,7 +8,7 @@ I'm a passionate developer focused on building practical projects, strengthening
 
 ## 🚀 About Me
 
-- 🎓 Artificial Intelligence and Data Science Student
+- 🎓 Computer Science / Software Engineering Student
 - ☕ Working with **Java and Python**
 - 🧩 Practicing **Data Structures & Algorithms**
 - 🟨 Working with **JavaScript**
